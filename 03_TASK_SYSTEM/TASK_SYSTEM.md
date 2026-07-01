@@ -1,24 +1,25 @@
-# ROOTS_DIRECTOR/03_TASK_SYSTEM/TASK_SYSTEM.md
-
 # ROOTS — TASK SYSTEM
 
-Version: 1.0
+Version: 1.1
+Status: Draft
+Author: ROOTS Project Documentation
+Last Updated: 2026-07-01
 
 ---
 
-# PURPOSE
+# Purpose
 
 Every task must follow the same structure.
 
-Agents execute Tasks.
+Agents execute tasks.
 
-Producer creates Tasks.
+The Producer creates tasks.
 
-QA validates Tasks.
+QA validates tasks.
 
 ---
 
-# TASK LIFECYCLE
+# Task Lifecycle
 
 BACKLOG
 
@@ -48,7 +49,7 @@ DONE
 
 ---
 
-# TASK ID FORMAT
+# Task ID Format
 
 TASK-0001
 
@@ -60,7 +61,7 @@ TASK-0003
 
 ---
 
-# TASK PRIORITY
+# Task Priority
 
 P0 = Critical
 
@@ -72,7 +73,7 @@ P3 = Low
 
 ---
 
-# TASK TYPES
+# Task Types
 
 STORY
 
@@ -102,7 +103,7 @@ DOCUMENTATION
 
 ---
 
-# TASK TEMPLATE
+# Task Template
 
 Task ID:
 
@@ -176,23 +177,23 @@ Summary
 
 Known Issues
 
-Suggestions (Optional)
+Suggestions (optional)
 
 ---
 
-# AGENT LIMITS
+# Agent Limits
 
-One Task.
+One task.
 
-One Objective.
+One objective.
 
-One Responsibility.
+One responsibility.
 
 No multitasking.
 
 ---
 
-# TASK SIZE
+# Task Size
 
 Maximum:
 
@@ -200,46 +201,39 @@ One logical feature.
 
 If larger:
 
-Split into multiple Tasks.
+Split into multiple tasks.
 
 ---
 
-# DEPENDENCIES
+# Dependencies
 
-A Task cannot start until all required Tasks are completed.
-
----
-
-# PRODUCER RULES
-
-Only Producer may:
-
-Create Tasks.
-
-Assign Tasks.
-
-Approve Tasks.
-
-Close Tasks.
-
-Reopen Tasks.
+A task cannot start until all required tasks are completed.
 
 ---
 
-# QA RULES
+# Producer Rules
+
+Only the Producer may:
+
+* Create tasks
+* Assign tasks
+* Approve tasks
+* Close tasks
+* Reopen tasks
+
+---
+
+# QA Rules
 
 QA may:
 
-Approve.
-
-Reject.
-
-Request changes.
-
-Never modify the implementation directly.
+* Approve
+* Reject
+* Request changes
+* Never modify the implementation directly
 
 ---
 
-# MASTER RULE
+# Master Rule
 
-Every piece of work in ROOTS must belong to exactly one Task.
+Every piece of work in ROOTS must belong to exactly one task.
