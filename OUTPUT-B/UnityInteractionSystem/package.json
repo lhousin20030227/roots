@@ -1,0 +1,10 @@
+{
+  "name": "com.roots.unity-interaction-system",
+  "version": "1.0.0",
+  "displayName": "ROOTS Unity Interaction System",
+  "description": "A reusable interaction framework for inspect, pickup, read, use, talk, and door interactions in Unity.",
+  "unity": "2021.3",
+  "author": {
+    "name": "ROOTS"
+  }
+}
