@@ -1,64 +1,65 @@
-# ROOTS_DIRECTOR/02_WORKFLOW/WORKFLOW.md
-
 # ROOTS — AI WORKFLOW
 
-Version: 1.0
+Version: 1.1
+Status: Draft
+Author: ROOTS Project Documentation
+Last Updated: 2026-07-01
 
 ---
 
-# PURPOSE
+# Purpose
 
-Define how every AI Agent collaborates without conflicts.
+This document defines how every AI agent collaborates without conflicts.
 
 ---
 
-# GLOBAL PIPELINE
+# Global Pipeline
 
 Producer
 
 ↓
 
-Creates Task
+Creates task
 
 ↓
 
-Assigns Task
+Assigns task
 
 ↓
 
-Agent Reads MASTER_BIBLE
+Agent reads Master Bible
 
 ↓
 
-Agent Reads PROJECT_RULES
+Agent reads Project Rules
 
 ↓
 
-Agent Reads Task
+Agent reads task
 
 ↓
 
-Agent Produces Output
+Agent produces output
 
 ↓
 
-QA Reviews Output
+QA reviews output
 
 ↓
 
-Producer Approves
+Producer approves
 
 ↓
 
-Merge Into Project
+Merge into project
 
 ↓
 
-Git Commit
+Git commit
 
 ---
 
-# AGENT EXECUTION ORDER
+# Agent Execution Order
 
 1. Producer
 2. Story
@@ -75,23 +76,23 @@ Git Commit
 
 ---
 
-# BEFORE STARTING ANY TASK
+# Before Starting Any Task
 
-Every Agent must:
+Every agent must:
 
-* Read MASTER_BIBLE
-* Read PROJECT_RULES
-* Read its own Agent Prompt
-* Read the assigned Task
+* Read the Master Bible
+* Read Project Rules
+* Read its own agent prompt
+* Read the assigned task
 * Read any referenced files
 
 ---
 
-# DURING EXECUTION
+# During Execution
 
-Agent must:
+Each agent must:
 
-* Stay inside task scope
+* Stay within task scope
 * Produce deterministic output
 * Follow project standards
 * Keep naming consistent
@@ -99,40 +100,36 @@ Agent must:
 
 ---
 
-# AFTER EXECUTION
+# After Execution
 
-Agent must return:
+Each agent must return:
 
 * Summary
-* Files Created
-* Files Modified
-* Issues Found
+* Files created
+* Files modified
+* Issues found
 * Suggestions (optional)
 
 ---
 
-# QA WORKFLOW
+# QA Workflow
 
 QA verifies:
 
-* Scope respected
-* Rules respected
-* No conflicts
-* No duplicated work
-* Naming correct
-* Ready for merge
+* Scope is respected
+* Rules are respected
+* No conflicts exist
+* No duplicate work exists
+* Naming is correct
+* The output is ready for merge
 
-If failed:
+If verification fails, return the task to the original agent.
 
-Return to original Agent.
-
-If passed:
-
-Send to Producer.
+If verification passes, send the task to the Producer.
 
 ---
 
-# PRODUCER RESPONSIBILITIES
+# Producer Responsibilities
 
 * Create tasks
 * Assign agents
@@ -143,32 +140,32 @@ Send to Producer.
 
 ---
 
-# CONFLICT RESOLUTION
+# Conflict Resolution
 
-If two Agents modify the same file:
+If two agents modify the same file:
 
-1. Stop merge.
-2. Notify Producer.
+1. Stop the merge.
+2. Notify the Producer.
 3. Compare outputs.
 4. Keep the best solution.
 5. Reject conflicting changes.
 
 ---
 
-# VERSION CONTROL
+# Version Control
 
 Every completed task must include:
 
 * Task ID
-* Agent Name
+* Agent name
 * Version
 * Date
 * Status
-* Changed Files
+* Changed files
 
 ---
 
-# TASK STATUS
+# Task Status
 
 TODO
 
@@ -194,6 +191,6 @@ COMPLETED
 
 ---
 
-# MASTER RULE
+# Master Rule
 
-No Agent is allowed to skip this workflow. Every task follows the same pipeline from assignment to approval.
+No agent is allowed to skip this workflow. Every task follows the same pipeline from assignment to approval.
