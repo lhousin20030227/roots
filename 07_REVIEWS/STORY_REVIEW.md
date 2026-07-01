@@ -1,127 +1,159 @@
-ROOTS_DIRECTOR/07_REVIEWS/STORY_REVIEW.md
-ROOTS — STORY REVIEW
+# ROOTS — STORY REVIEW
+
 Version: 1.0
+
 Status: Active
 
-PURPOSE
-Review every story element — chapters, dialogue, documents, letters, audio logs, character writing — before it is accepted into the ROOTS project.
-This review ensures full consistency with the Story Bible, the Lore Bible, the Timeline and the project's narrative rules.
+---
 
-REVIEW INFORMATION
-Review ID
-Reviewer
-Date
-Story Writer / AI Agent
-Task ID
-Chapter / Scene
-Content Type
-Version
+## Purpose
 
-REVIEW CHECKLIST
-Story Bible Consistency
+Review every story element—chapters, dialogue, documents, letters, audio logs, and character writing—before it is accepted into the ROOTS project. This review ensures full consistency with the Story Bible, the Lore Bible, the Timeline, and the project's narrative rules.
 
-Matches established characters.
-Matches established timeline.
-Matches established relationships.
-No contradictions with known facts.
-No unauthorized new lore.
+---
 
-PASS / FAIL
+## Review Information
 
-Lore Bible Consistency
+- Review ID:
+- Reviewer:
+- Date:
+- Story Writer / AI Agent:
+- Task ID:
+- Chapter / Scene:
+- Content Type:
+- Version:
 
-Matches world details.
-Matches locations history.
-Matches background facts.
-No contradictions with hidden lore.
+---
 
-PASS / FAIL
+## Review Checklist
 
-Narrative Rules
+### Story Bible Consistency
 
-No monsters.
-No combat.
-No blood.
-No supernatural elements.
-No unjustified time jumps.
+- Matches established characters.
+- Matches established timeline.
+- Matches established relationships.
+- No contradictions with known facts.
+- No unauthorized new lore.
 
 PASS / FAIL
 
-Mystery Pacing
+### Lore Bible Consistency
 
-Information is revealed gradually.
-No premature reveals.
-Clue leads naturally to the next clue.
-Player discovers truth through deduction, not exposition.
-Curiosity is maintained.
-
-PASS / FAIL
-
-Character Writing
-
-Dialogue matches character personality.
-Motivations are clear and justified.
-Voice is consistent across all content.
-Emotional tone fits the scene.
+- Matches world details.
+- Matches locations history.
+- Matches background facts.
+- No contradictions with hidden lore.
 
 PASS / FAIL
 
-Player Identity
+### Narrative Rules
 
-Player name is used correctly where applicable.
-No assumptions about player gender/identity beyond what is established.
-First-person perspective respected.
-
-PASS / FAIL
-
-Document / Evidence Writing
-
-Evidence is logically written.
-Evidence is understandable without forced exposition.
-Evidence connects clearly to the investigation.
-No plot holes introduced.
+- No monsters.
+- No combat.
+- No blood.
+- No supernatural elements.
+- No unjustified time jumps.
 
 PASS / FAIL
 
-Tone
+### Mystery Pacing
 
-Matches the calm, melancholic atmosphere.
-No tonal breaks.
-No unintended comedy.
-Emotional weight is appropriate.
+- Information is revealed gradually.
+- No premature reveals.
+- Clues lead naturally to the next clue.
+- Player discovers truth through deduction, not exposition.
+- Curiosity is maintained.
 
 PASS / FAIL
 
-ISSUES FOUND
-Critical
-High
-Medium
-Low
-Describe each issue clearly.
+### Character Writing
 
-IMPROVEMENTS
-List optional improvements.
-Do not expand project scope.
+- Dialogue matches character personality.
+- Motivations are clear and justified.
+- Voice is consistent across all content.
+- Emotional tone fits the scene.
 
-FINAL RESULT
-APPROVED
-CHANGES REQUESTED
-REJECTED
+PASS / FAIL
 
-REVIEW SCORE
-Overall Score
-__/100
+### Player Identity
 
-FILES REVIEWED
-List all reviewed story content, dialogue, documents or scenes.
+- Player name is used correctly where applicable.
+- No assumptions about player gender/identity beyond what is established.
+- First-person perspective respected.
 
-REVIEWER NOTES
-Additional observations.
+PASS / FAIL
 
-APPROVAL
-Reviewer
-Date
-Signature (if applicable)
+### Document / Evidence Writing
 
-MASTER RULE
+- Evidence is logically written.
+- Evidence is understandable without forced exposition.
+- Evidence connects clearly to the investigation.
+- No plot holes introduced.
+
+PASS / FAIL
+
+### Tone
+
+- Matches the calm, melancholic atmosphere.
+- No tonal breaks.
+- No unintended comedy.
+- Emotional weight is appropriate.
+
+PASS / FAIL
+
+---
+
+## Issues Found
+
+- Critical:
+- High:
+- Medium:
+- Low:
+- Describe each issue clearly.
+
+---
+
+## Improvements
+
+- List optional improvements.
+- Do not expand project scope.
+
+---
+
+## Final Result
+
+- APPROVED
+- CHANGES REQUESTED
+- REJECTED
+
+---
+
+## Review Score
+
+- Overall Score: __/100
+
+---
+
+## Files Reviewed
+
+- List all reviewed story content, dialogue, documents, or scenes.
+
+---
+
+## Reviewer Notes
+
+- Additional observations.
+
+---
+
+## Approval
+
+- Reviewer:
+- Date:
+- Signature (if applicable):
+
+---
+
+## Master Rule
+
 No story content may be approved unless it remains fully consistent with the Story Bible and Lore Bible, respects the narrative rules, and preserves the mystery's pacing and emotional tone.

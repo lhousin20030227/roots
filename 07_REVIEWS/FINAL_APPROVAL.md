@@ -1,5 +1,3 @@
-# ROOTS_DIRECTOR/07_REVIEWS/FINAL_APPROVAL.md
-
 # ROOTS — FINAL APPROVAL
 
 Version: 1.0
@@ -8,216 +6,119 @@ Status: Active
 
 ---
 
-# PURPOSE
+## Purpose
 
-This document is the final gate before any task, feature, asset, system or milestone becomes officially accepted into the ROOTS project.
-
-No deliverable is considered complete until this approval is granted.
+This document is the final gate before any task, feature, asset, system, or milestone becomes officially accepted into the ROOTS project. No deliverable is considered complete until this approval is granted.
 
 ---
 
-# APPROVAL INFORMATION
+## Approval Information
 
-Approval ID
-
-Task ID
-
-Milestone
-
-Version
-
-Date
-
-Producer
-
-QA Lead
+- Approval ID:
+- Task ID:
+- Milestone:
+- Version:
+- Date:
+- Producer:
+- QA Lead:
 
 ---
 
-# APPROVAL SCOPE
+## Approval Scope
 
 Select one:
 
-* Task
-* System
-* Feature
-* Story
-* Level
-* Environment
-* Art Asset
-* Audio Asset
-* UI
-* Documentation
-* Full Build
-* Milestone
+- Task
+- System
+- Feature
+- Story
+- Level
+- Environment
+- Art Asset
+- Audio Asset
+- UI
+- Documentation
+- Full Build
+- Milestone
 
 ---
 
-# REQUIRED REVIEWS
+## Required Reviews
 
 The following reviews must be completed before approval.
 
-Project Rules
-
-PASS / FAIL
-
----
-
-Master Bible Compliance
-
-PASS / FAIL
-
----
-
-Story Review
-
-PASS / FAIL
+- Project Rules: PASS / FAIL
+- Master Bible Compliance: PASS / FAIL
+- Story Review: PASS / FAIL
+- Gameplay Review: PASS / FAIL
+- Technical Review: PASS / FAIL
+- Art Review: PASS / FAIL
+- Audio Review: PASS / FAIL
+- Performance Review: PASS / FAIL
+- QA Review: PASS / FAIL
+- Documentation Review: PASS / FAIL
 
 ---
 
-Gameplay Review
+## Final Checklist
 
-PASS / FAIL
-
----
-
-Technical Review
-
-PASS / FAIL
-
----
-
-Art Review
-
-PASS / FAIL
+- Task completed.
+- No missing requirements.
+- Naming standards followed.
+- Coding standards followed.
+- Folder standards followed.
+- Documentation updated.
+- Performance verified.
+- No critical bugs.
+- No high-priority issues.
+- Production-ready.
 
 ---
 
-Audio Review
+## Risk Assessment
 
-PASS / FAIL
-
----
-
-Performance Review
-
-PASS / FAIL
+- Critical Risks: None / Listed
+- High Risks: None / Listed
+- Medium Risks: None / Listed
+- Low Risks: None / Listed
+- Mitigation Plan: Required if any risk exists.
 
 ---
 
-QA Review
+## Final Decision
 
-PASS / FAIL
-
----
-
-Documentation Review
-
-PASS / FAIL
+- APPROVED
+- CHANGES REQUESTED
+- REJECTED
 
 ---
 
-# FINAL CHECKLIST
+## Release Status
 
-* Task completed.
-* No missing requirements.
-* Naming standards followed.
-* Coding standards followed.
-* Folder standards followed.
-* Documentation updated.
-* Performance verified.
-* No critical bugs.
-* No high-priority issues.
-* Production-ready.
+- Ready for Merge: YES / NO
+- Ready for Production: YES / NO
+- Ready for Milestone: YES / NO
+- Ready for Release: YES / NO
 
 ---
 
-# RISK ASSESSMENT
+## Comments
 
-Critical Risks
-
-None / Listed
-
-High Risks
-
-None / Listed
-
-Medium Risks
-
-None / Listed
-
-Low Risks
-
-None / Listed
-
-Mitigation Plan
-
-Required if any risk exists.
+- Producer Notes:
+- QA Notes:
+- Technical Notes:
+- Additional Remarks:
 
 ---
 
-# FINAL DECISION
+## Sign-Off
 
-APPROVED
-
-CHANGES REQUESTED
-
-REJECTED
+- Producer: Date:
+- QA Lead: Date:
+- Technical Lead: Date:
 
 ---
 
-# RELEASE STATUS
-
-Ready for Merge
-
-YES / NO
-
-Ready for Production
-
-YES / NO
-
-Ready for Milestone
-
-YES / NO
-
-Ready for Release
-
-YES / NO
-
----
-
-# COMMENTS
-
-Producer Notes
-
-QA Notes
-
-Technical Notes
-
-Additional Remarks
-
----
-
-# SIGN-OFF
-
-Producer
-
-Date
-
----
-
-QA Lead
-
-Date
-
----
-
-Technical Lead
-
-Date
-
----
-
-# MASTER RULE
+## Master Rule
 
 Nothing enters the ROOTS project without passing every required review. If a deliverable fails a mandatory review, it must be corrected and reviewed again before receiving Final Approval.
