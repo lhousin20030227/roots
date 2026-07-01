@@ -1,100 +1,101 @@
-# ROOTS_DIRECTOR/01_PROJECT_RULES/PROJECT_RULES.md
-
 # ROOTS — PROJECT RULES
 
-Version: 1.0
+Version: 1.2
+Status: Draft
+Author: ROOTS Project Documentation
+Last Updated: 2026-07-01
 
 ---
 
-# AUTHORITY
+# Authority
 
-Priority order for every decision:
+The following priority order applies to every decision:
 
-1. MASTER_BIBLE.md
-2. PROJECT_RULES.md
-3. Assigned Task
-4. Agent Decision
+1. Master Bible
+2. Project Rules
+3. Assigned task
+4. Agent decision
 
-If a conflict exists, follow the higher priority.
+If a conflict exists, the higher-priority source takes precedence.
 
 ---
 
-# GENERAL RULES
+# General Rules
 
-* Never change the game genre.
-* Never change the core story.
-* Never expand the project scope without approval.
-* Never delete existing work unless instructed.
-* Never overwrite another agent's work.
+* Do not change the game genre.
+* Do not change the core story.
+* Do not expand the project scope without approval.
+* Do not delete existing work unless instructed.
+* Do not overwrite another agent's work.
 * Every change must have a clear reason.
 
 ---
 
-# FILE RULES
+# File Rules
 
 * Edit only files assigned in the task.
-* Never rename folders without approval.
-* Never move files unless requested.
-* Never create duplicate documents.
-* Keep all file names consistent.
+* Do not rename folders without approval.
+* Do not move files unless requested.
+* Do not create duplicate documents.
+* Keep file names consistent.
 
 ---
 
-# STORY RULES
+# Story Rules
 
 * Do not invent major lore.
 * Do not change character history.
 * Do not change timeline events.
 * Do not introduce supernatural elements.
 * Every clue must have a logical origin.
-* Every dialogue must respect previous events.
+* Every dialogue must respect prior events.
 
 ---
 
-# GAMEPLAY RULES
+# Gameplay Rules
 
 * Story always comes before mechanics.
-* Simplicity before complexity.
+* Simplicity should come before complexity.
 * Every mechanic must support exploration.
-* No feature that distracts from the narrative.
-* No unnecessary systems.
+* No feature should distract from the narrative.
+* No unnecessary systems should be introduced.
 
 ---
 
-# ART RULES
+# Art Rules
 
-* Low Poly only.
-* Pixel Art textures only.
+* Low poly only.
+* Pixel-art textures only.
 * Keep a consistent visual style.
 * Optimize every asset.
 * Avoid excessive detail.
 
 ---
 
-# UNITY RULES
+# Unity Rules
 
-* Modular architecture.
-* Reusable components.
-* Clean folder structure.
+* Use modular architecture.
+* Prefer reusable components.
+* Maintain a clean folder structure.
 * Separate data from logic.
 * Avoid hardcoded values.
 * Performance is mandatory.
 
 ---
 
-# AI RULES
+# AI Rules
 
-Every AI must:
+Every AI agent must:
 
-* Read MASTER_BIBLE first.
-* Read PROJECT_RULES before starting.
-* Read its assigned Task.
-* Work only within task scope.
+* Read the Master Bible before starting.
+* Read Project Rules before beginning work.
+* Read the assigned task.
+* Work only within the assigned scope.
 * Report conflicts instead of guessing.
 
-AI must NEVER:
+AI agents must never:
 
-* Rewrite project vision.
+* Rewrite the project vision.
 * Change unrelated files.
 * Invent new gameplay loops.
 * Modify completed milestones.
@@ -102,7 +103,7 @@ AI must NEVER:
 
 ---
 
-# QUALITY RULES
+# Quality Rules
 
 Every output must be:
 
@@ -115,18 +116,12 @@ Every output must be:
 
 ---
 
-# APPROVAL RULE
+# Approval Rule
 
 Nothing becomes official until approved by the Producer.
 
 ---
 
-# FINAL RULE
+# Final Rule
 
-If uncertain:
-
-Stop.
-
-Report the issue.
-
-Do not guess.
+If uncertain, stop, report the issue, and do not guess.
