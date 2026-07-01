@@ -1,247 +1,164 @@
-# TASKS
+# ROOTS — TASKS
 
 ## Purpose
 
-This document tracks every active development task for ROOTS.
-
-Unlike the Backlog, the Tasks document contains only work that is currently approved and ready to be completed.
+This document tracks every active development task for ROOTS. Unlike the backlog, the tasks document contains only work that is currently approved and ready to be completed.
 
 ---
 
-# Task Philosophy
+## Task Philosophy
 
 A task must be:
 
-* Small
-* Clear
-* Actionable
-* Testable
-* Finishable
+- Small
+- Clear
+- Actionable
+- Testable
+- Finishable
 
 Large features should always be divided into multiple smaller tasks.
 
 ---
 
-# Task Workflow
+## Task Workflow
 
-Backlog
-
-↓
-
-Approved
-
-↓
-
-Task
-
-↓
-
-In Progress
-
-↓
-
-Testing
-
-↓
-
-Completed
+Backlog → Approved → Task → In Progress → Testing → Completed
 
 ---
 
-# Task Structure
+## Task Structure
 
 Each task should include:
 
-* Task ID
-* Title
-* Assigned AI / Developer
-* Category
-* Priority
-* Status
-* Description
-* Dependencies
-* Estimated Time
-* Completion Notes
+- Task ID
+- Title
+- Assigned AI / Developer
+- Category
+- Priority
+- Status
+- Description
+- Dependencies
+- Estimated Time
+- Completion Notes
 
 ---
 
-# Task Status
+## Task Status
 
-* Pending
-* Ready
-* In Progress
-* Review
-* Testing
-* Completed
-* Blocked
-* Cancelled
+- Pending
+- Ready
+- In Progress
+- Review
+- Testing
+- Completed
+- Blocked
+- Cancelled
 
 ---
 
-# Priority Levels
+## Priority Levels
 
-Critical
+### Critical
 
 The project cannot continue without it.
 
----
-
-High
+### High
 
 Core gameplay functionality.
 
----
-
-Medium
+### Medium
 
 Improves player experience.
 
----
-
-Low
+### Low
 
 Optional polish.
 
 ---
 
-# Task Template
+## Task Template
 
-## Task ID
+### Task ID
 
-Example:
+Example: TASK-001
 
-TASK-001
+### Title
 
----
+Example: Implement Door Interaction
 
-## Title
-
-Example:
-
-Implement Door Interaction
-
----
-
-## Assigned To
+### Assigned To
 
 Example:
 
-UNITY Agent
+- UNITY Agent
+- Gameplay Agent
+- UI Agent
+- Developer
 
-Gameplay Agent
-
-UI Agent
-
-Developer
-
----
-
-## Category
+### Category
 
 Gameplay
 
----
-
-## Priority
+### Priority
 
 High
 
----
-
-## Status
+### Status
 
 Ready
 
----
-
-## Description
+### Description
 
 Describe exactly what needs to be implemented.
 
----
+### Dependencies
 
-## Dependencies
+Example: Interaction System
 
-Example:
+### Estimated Time
 
-Interaction System
+Example: 4 hours
 
----
-
-## Estimated Time
-
-Example:
-
-4 Hours
-
----
-
-## Completion Notes
+### Completion Notes
 
 Document important implementation details after the task is finished.
 
 ---
 
-# Task Rules
+## Task Rules
 
-* One task should solve one problem.
-* Do not combine unrelated work.
-* Keep tasks independent whenever possible.
-* Update task status immediately after progress.
-* Close tasks only after testing.
+- One task should solve one problem.
+- Do not combine unrelated work.
+- Keep tasks independent whenever possible.
+- Update task status immediately after progress.
+- Close tasks only after testing.
 
 ---
 
-# Review Checklist
+## Review Checklist
 
 Before marking a task as completed:
 
-* Feature works correctly.
-* No critical bugs.
-* Performance is acceptable.
-* Documentation updated.
-* Compatible with project standards.
+- Feature works correctly.
+- No critical bugs.
+- Performance is acceptable.
+- Documentation updated.
+- Compatible with project standards.
 
 ---
 
-# AI Assignment Examples
+## AI Assignment Examples
 
 Examples:
 
-UNITY Agent
-
-* Gameplay programming
-* Systems
-* C# implementation
-
-ART_3D Agent
-
-* Models
-* Props
-* Environment assets
-
-STORY Agent
-
-* Dialogue
-* Story content
-* Narrative review
-
-QA Agent
-
-* Testing
-* Bug reports
-* Validation
-
-PRODUCER Agent
-
-* Scheduling
-* Priorities
-* Sprint planning
+- UNITY Agent: Gameplay programming, systems, C# implementation
+- ART_3D Agent: Models, props, environment assets
+- STORY Agent: Dialogue, story content, narrative review
+- QA Agent: Testing, bug reports, validation
+- PRODUCER Agent: Scheduling, priorities, sprint planning
 
 ---
 
-# Final Rule
+## Final Rule
 
-Tasks are the smallest executable unit of the project.
-
-If a task cannot be completed independently, it should be divided into smaller tasks before development begins.
+Tasks are the smallest executable unit of the project. If a task cannot be completed independently, it should be divided into smaller tasks before development begins.

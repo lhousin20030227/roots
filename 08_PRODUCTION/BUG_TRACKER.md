@@ -1,227 +1,179 @@
-# BUG_TRACKER
+# ROOTS — BUG TRACKER
 
 ## Purpose
 
-This document tracks every bug discovered during the development of ROOTS.
-
-A bug should never be fixed without first being documented.
-
-Every issue must be reproducible, assigned, and verified before being closed.
+This document tracks every bug discovered during the development of ROOTS. A bug should never be fixed without first being documented. Every issue must be reproducible, assigned, and verified before being closed.
 
 ---
 
-# Bug Philosophy
+## Bug Philosophy
 
-A bug is not considered fixed until it has been tested successfully.
-
-Temporary fixes should never be marked as completed.
+A bug is not considered fixed until it has been tested successfully. Temporary fixes should never be marked as completed.
 
 ---
 
-# Bug Severity
+## Bug Severity
 
-## Critical
+### Critical
 
 Blocks gameplay or causes crashes.
 
 Examples:
 
-* Game crashes
-* Save corruption
-* Infinite loading
-* Player cannot progress
+- Game crashes
+- Save corruption
+- Infinite loading
+- Player cannot progress
 
----
-
-## High
+### High
 
 Major gameplay issue.
 
 Examples:
 
-* Broken dialogue
-* Missing objectives
-* Inventory failure
-* AI not functioning
+- Broken dialogue
+- Missing objectives
+- Inventory failure
+- AI not functioning
 
----
-
-## Medium
+### Medium
 
 Noticeable but not game-breaking.
 
 Examples:
 
-* Animation glitches
-* Audio issues
-* UI overlap
-* Incorrect interactions
+- Animation glitches
+- Audio issues
+- UI overlap
+- Incorrect interactions
 
----
-
-## Low
+### Low
 
 Minor visual or cosmetic issues.
 
 Examples:
 
-* Texture seams
-* Lighting inconsistencies
-* Typographical errors
-* Small visual artifacts
+- Texture seams
+- Lighting inconsistencies
+- Typographical errors
+- Small visual artifacts
 
 ---
 
-# Bug Status
+## Bug Status
 
-* New
-* Confirmed
-* Assigned
-* In Progress
-* Ready for Testing
-* Verified
-* Closed
-* Reopened
-
----
-
-# Bug Template
-
-## Bug ID
-
-Example:
-
-BUG-001
+- New
+- Confirmed
+- Assigned
+- In Progress
+- Ready for Testing
+- Verified
+- Closed
+- Reopened
 
 ---
 
-## Title
+## Bug Template
 
-Example:
+### Bug ID
 
-Player falls through floor after loading save.
+Example: BUG-001
 
----
+### Title
 
-## Severity
+Example: Player falls through floor after loading save.
+
+### Severity
 
 Critical
 
----
-
-## Status
+### Status
 
 New
 
----
-
-## Assigned To
+### Assigned To
 
 Example:
 
-UNITY Agent
+- UNITY Agent
+- QA Agent
+- Developer
 
-QA Agent
-
-Developer
-
----
-
-## Location
+### Location
 
 Example:
 
-Chapter 01
+- Chapter 01
+- Family House
+- Kitchen
 
-Family House
-
-Kitchen
-
----
-
-## Description
+### Description
 
 Describe exactly what happens.
 
----
-
-## Steps to Reproduce
+### Steps to Reproduce
 
 1. Load saved game.
 2. Enter kitchen.
 3. Walk toward the refrigerator.
 
----
-
-## Expected Result
+### Expected Result
 
 Player remains on the floor.
 
----
-
-## Actual Result
+### Actual Result
 
 Player falls below the map.
 
----
+### Possible Cause
 
-## Possible Cause
+Optional. Known information that may help debugging.
 
-(Optional)
-
-Known information that may help debugging.
-
----
-
-## Fix Notes
+### Fix Notes
 
 Document the solution after implementation.
 
----
-
-## Verification
+### Verification
 
 Describe how the fix was tested.
 
 ---
 
-# Bug Management Rules
+## Bug Management Rules
 
-* One report per bug.
-* Never combine multiple issues.
-* Verify every report before closing.
-* Reopen bugs if the issue returns.
-* Prioritize by severity, not discovery date.
+- One report per bug.
+- Never combine multiple issues.
+- Verify every report before closing.
+- Reopen bugs if the issue returns.
+- Prioritize by severity, not discovery date.
 
 ---
 
-# QA Checklist
+## QA Checklist
 
 Before closing a bug:
 
-* The issue is no longer reproducible.
-* Related systems still function correctly.
-* No new bugs were introduced.
-* Performance remains stable.
-* Documentation is updated if necessary.
+- The issue is no longer reproducible.
+- Related systems still function correctly.
+- No new bugs were introduced.
+- Performance remains stable.
+- Documentation is updated if necessary.
 
 ---
 
-# Reporting Rules
+## Reporting Rules
 
 Every bug report should be:
 
-* Clear
-* Reproducible
-* Concise
-* Objective
+- Clear
+- Reproducible
+- Concise
+- Objective
 
 Avoid assumptions without evidence.
 
 ---
 
-# Final Rule
+## Final Rule
 
-A bug is not finished when it is fixed.
-
-A bug is finished only when it has been verified, documented, and confirmed not to affect the stability or quality of ROOTS.
+A bug is not finished when it is fixed. A bug is finished only when it has been verified, documented, and confirmed not to affect the stability or quality of ROOTS.

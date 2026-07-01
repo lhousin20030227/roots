@@ -1,216 +1,175 @@
-# BACKLOG
+# ROOTS — BACKLOG
 
 ## Purpose
 
-This document contains every planned feature, improvement, idea, and task for ROOTS that has not yet been scheduled.
-
-The backlog is the project's central task pool.
-
-Nothing should be forgotten—if it is not being worked on today, it belongs in the backlog.
+This document contains every planned feature, improvement, idea, and task for ROOTS that has not yet been scheduled. The backlog is the project's central task pool, ensuring that no valuable idea is forgotten while development remains focused on current priorities.
 
 ---
 
-# Backlog Philosophy
+## Backlog Philosophy
 
-The backlog is a living document.
-
-New ideas are added here first.
-
-Only approved items move into future sprints.
+The backlog is a living document. New ideas are added here first, and only approved items move into future sprints.
 
 ---
 
-# Backlog Structure
+## Backlog Structure
 
 Each backlog item should include:
 
-* ID
-* Title
-* Category
-* Description
-* Priority
-* Status
-* Dependencies
-* Estimated Effort
-* Notes
+- ID
+- Title
+- Category
+- Description
+- Priority
+- Status
+- Dependencies
+- Estimated Effort
+- Notes
 
 ---
 
-# Status Values
+## Status Values
 
-* Planned
-* Approved
-* In Progress
-* Blocked
-* Completed
-* Cancelled
+- Planned
+- Approved
+- In Progress
+- Blocked
+- Completed
+- Cancelled
 
 ---
 
-# Priority Levels
+## Priority Levels
 
-## Critical
+### Critical
 
 Required for the game to function.
 
 Examples:
 
-* Save System
-* Player Controller
-* Inventory
+- Save System
+- Player Controller
+- Inventory
 
----
-
-## High
+### High
 
 Strongly improves gameplay.
 
 Examples:
 
-* Evidence Board
-* Dialogue Improvements
-* NPC Behaviors
+- Evidence Board
+- Dialogue Improvements
+- NPC Behaviors
 
----
-
-## Medium
+### Medium
 
 Adds quality and immersion.
 
 Examples:
 
-* Ambient Events
-* Decorative Props
-* Additional Animations
+- Ambient Events
+- Decorative Props
+- Additional Animations
 
----
-
-## Low
+### Low
 
 Optional improvements.
 
 Examples:
 
-* Extra Visual Effects
-* Cosmetic Details
-* Optional Achievements
+- Extra Visual Effects
+- Cosmetic Details
+- Optional Achievements
 
 ---
 
-# Categories
+## Categories
 
 Possible categories include:
 
-* Gameplay
-* Story
-* World
-* Characters
-* UI
-* Audio
-* Art
-* Animation
-* AI
-* Optimization
-* Technical
-* Tools
-* Testing
+- Gameplay
+- Story
+- World
+- Characters
+- UI
+- Audio
+- Art
+- Animation
+- AI
+- Optimization
+- Technical
+- Tools
+- Testing
 
 ---
 
-# Backlog Item Template
+## Backlog Item Template
 
-## ID
+### ID
 
-Example:
+Example: BG-001
 
-BG-001
+### Title
 
----
+Example: Evidence Board Improvements
 
-## Title
-
-Example:
-
-Evidence Board Improvements
-
----
-
-## Category
+### Category
 
 Gameplay
 
----
-
-## Description
+### Description
 
 Describe exactly what needs to be added or improved.
 
----
-
-## Priority
+### Priority
 
 Critical / High / Medium / Low
 
----
-
-## Status
+### Status
 
 Planned
 
----
-
-## Dependencies
+### Dependencies
 
 List systems that must exist first.
 
 Example:
 
-Inventory System
+- Inventory System
+- Dialogue System
 
-Dialogue System
+### Estimated Effort
 
----
+Small / Medium / Large
 
-## Estimated Effort
-
-Small
-
-Medium
-
-Large
-
----
-
-## Notes
+### Notes
 
 Additional information if necessary.
 
 ---
 
-# Backlog Management Rules
+## Backlog Management Rules
 
-* Every new idea starts in the backlog.
-* Do not implement ideas directly.
-* Review the backlog before every sprint.
-* Remove duplicate items.
-* Cancel outdated features.
-* Keep descriptions clear and concise.
+- Every new idea starts in the backlog.
+- Do not implement ideas directly.
+- Review the backlog before every sprint.
+- Remove duplicate items.
+- Cancel outdated features.
+- Keep descriptions clear and concise.
 
 ---
 
-# Promotion Rules
+## Promotion Rules
 
 A backlog item moves to a sprint only if:
 
-* It supports the current milestone.
-* Dependencies are complete.
-* It has a clear implementation plan.
-* It has been approved.
+- It supports the current milestone.
+- Dependencies are complete.
+- It has a clear implementation plan.
+- It has been approved.
 
 ---
 
-# Final Rule
+## Final Rule
 
-The backlog is the project's memory.
-
-It ensures that no valuable idea is lost while keeping development focused on current priorities.
+The backlog is the project's memory. It ensures that no valuable idea is lost while keeping development focused on current priorities.
