@@ -1,5 +1,3 @@
-# ROOTS_DIRECTOR/06_ROADMAP/PRODUCTION.md
-
 # ROOTS — PRODUCTION ROADMAP
 
 Version: 1.0
@@ -8,298 +6,197 @@ Status: Planned
 
 ---
 
-# PURPOSE
+## Purpose
 
-The Production phase transforms the approved design into the complete playable game.
-
-All work must follow the Master Bible, Project Rules and approved documentation.
-
-No major design changes are allowed unless approved by the Producer.
+The Production phase transforms the approved design into the complete playable game. All work must follow the Master Bible, Project Rules, and approved documentation. No major design changes are allowed unless approved by the Producer.
 
 ---
 
-# PRIMARY GOALS
+## Primary Goals
 
-Build all gameplay systems.
-
-Create all game content.
-
-Implement the complete story.
-
-Integrate art, audio and UI.
-
-Maintain project quality.
-
-Keep the game stable throughout development.
+- Build all gameplay systems.
+- Create all game content.
+- Implement the complete story.
+- Integrate art, audio, and UI.
+- Maintain project quality.
+- Keep the game stable throughout development.
 
 ---
 
-# DEVELOPMENT ORDER
+## Development Order
 
-1. Gameplay Systems
-
-2. Level Design
-
-3. Environment Art
-
+1. Gameplay systems
+2. Level design
+3. Environment art
 4. Characters
-
 5. Props
-
 6. Documents
-
 7. Audio
-
 8. UI
-
 9. Optimization
-
 10. QA
 
 ---
 
-# GAMEPLAY
+## Gameplay
 
 Complete:
 
-Player Controller
-
-Interaction
-
-Inventory
-
-Evidence System
-
-Dialogue System
-
-Save / Load
-
-Objectives
-
-Settings
-
-Pause Menu
-
-Accessibility
+- Player Controller
+- Interaction
+- Inventory
+- Evidence System
+- Dialogue System
+- Save/Load
+- Objectives
+- Settings
+- Pause Menu
+- Accessibility
 
 ---
 
-# STORY
+## Story
 
 Implement:
 
-Main Story
-
-Dialogue
-
-Documents
-
-Photos
-
-Audio Logs
-
-Environmental Storytelling
-
-Objectives
+- Main Story
+- Dialogue
+- Documents
+- Photos
+- Audio Logs
+- Environmental storytelling
+- Objectives
 
 ---
 
-# LEVELS
+## Levels
 
 Complete:
 
-Old House
-
-Hospital
-
-Town Hall
-
-Archive
-
-Cemetery
-
-Biological Father's House
-
-Testing Scene
+- Old House
+- Hospital
+- Town Hall
+- Archive
+- Cemetery
+- Biological Father's House
+- Testing Scene
 
 ---
 
-# ART
+## Art
 
 Create:
 
-Architecture
-
-Characters
-
-Furniture
-
-Props
-
-Pixel Textures
-
-Materials
-
-Lighting
-
-Animations
+- Architecture
+- Characters
+- Furniture
+- Props
+- Pixel textures
+- Materials
+- Lighting
+- Animations
 
 ---
 
-# AUDIO
+## Audio
 
 Implement:
 
-Ambience
-
-SFX
-
-Music
-
-Voice
-
-Audio Logs
-
-Audio Mix
+- Ambience
+- SFX
+- Music
+- Voice
+- Audio Logs
+- Audio mix
 
 ---
 
-# UI
+## UI
 
 Complete:
 
-Main Menu
-
-Pause Menu
-
-Inventory
-
-Evidence Board
-
-Document Viewer
-
-Photo Viewer
-
-Settings
-
-Save / Load
+- Main Menu
+- Pause Menu
+- Inventory
+- Evidence Board
+- Document Viewer
+- Photo Viewer
+- Settings
+- Save/Load
 
 ---
 
-# PERFORMANCE
+## Performance
 
 Maintain:
 
-60 FPS target.
-
-Reasonable loading times.
-
-Low memory usage.
-
-Optimized draw calls.
-
-Optimized textures.
-
-Optimized lighting.
+- 60 FPS target
+- Reasonable loading times
+- Low memory usage
+- Optimized draw calls
+- Optimized textures
+- Optimized lighting
 
 ---
 
-# QA REQUIREMENTS
+## QA Requirements
 
-Continuous testing.
-
-Bug tracking.
-
-Regression testing.
-
-Story verification.
-
-Gameplay verification.
-
-Performance verification.
+- Continuous testing
+- Bug tracking
+- Regression testing
+- Story verification
+- Gameplay verification
+- Performance verification
 
 ---
 
-# MILESTONES
+## Milestones
 
-M1
-
-Core Systems Complete.
-
-M2
-
-First Playable Build.
-
-M3
-
-Story Fully Integrated.
-
-M4
-
-All Levels Playable.
-
-M5
-
-Content Complete.
-
-M6
-
-Production Approved.
+- M1: Core systems complete.
+- M2: First playable build.
+- M3: Story fully integrated.
+- M4: All levels playable.
+- M5: Content complete.
+- M6: Production approved.
 
 ---
 
-# DELIVERABLES
+## Deliverables
 
-Complete game content.
-
-Integrated gameplay.
-
-Integrated story.
-
-Integrated art.
-
-Integrated audio.
-
-Integrated UI.
-
-Updated documentation.
-
-Internal playable build.
+- Complete game content
+- Integrated gameplay
+- Integrated story
+- Integrated art
+- Integrated audio
+- Integrated UI
+- Updated documentation
+- Internal playable build
 
 ---
 
-# EXIT CRITERIA
+## Exit Criteria
 
 The project may leave Production only if:
 
-All planned content is implemented.
-
-The game is playable from beginning to end.
-
-No placeholder content remains in critical areas.
-
-QA approves Production completion.
-
-Producer approves transition to Alpha.
+- All planned content is implemented.
+- The game is playable from beginning to end.
+- No placeholder content remains in critical areas.
+- QA approves Production completion.
+- Producer approves transition to Alpha.
 
 ---
 
-# FORBIDDEN
+## Forbidden
 
-Changing project scope.
-
-Adding new gameplay systems.
-
-Large story rewrites.
-
-Replacing approved architecture.
-
-Skipping QA.
-
-Using placeholder assets in final production milestones.
+- Changing project scope.
+- Adding new gameplay systems.
+- Large story rewrites.
+- Replacing approved architecture.
+- Skipping QA.
+- Using placeholder assets in final production milestones.
 
 ---
 
-# SUCCESS CONDITION
+## Success Condition
 
-ROOTS contains all planned gameplay, story, environments, assets, audio and UI integrated into a stable, fully playable build that is ready to enter the Alpha phase for full feature validation.
+ROOTS contains all planned gameplay, story, environments, assets, audio, and UI integrated into a stable, fully playable build that is ready to enter the Alpha phase for full feature validation.

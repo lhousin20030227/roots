@@ -1,5 +1,3 @@
-# ROOTS_DIRECTOR/06_ROADMAP/PROTOTYPE.md
-
 # ROOTS — PROTOTYPE ROADMAP
 
 Version: 1.0
@@ -8,248 +6,168 @@ Status: Planned
 
 ---
 
-# PURPOSE
+## Purpose
 
-The Prototype phase validates the project's core gameplay, technical architecture and development workflow before full production begins.
-
-The goal is functionality, not visual quality.
-
-Placeholder assets are acceptable.
+The Prototype phase validates the project's core gameplay, technical architecture, and development workflow before full production begins. The goal is functionality rather than visual quality, and placeholder assets are acceptable.
 
 ---
 
-# PRIMARY GOALS
+## Primary Goals
 
-Build a playable prototype.
-
-Validate all core systems.
-
-Verify project architecture.
-
-Test gameplay flow.
-
-Identify technical risks early.
+- Build a playable prototype.
+- Validate all core systems.
+- Verify project architecture.
+- Test gameplay flow.
+- Identify technical risks early.
 
 ---
 
-# SYSTEMS TO IMPLEMENT
+## Systems to Implement
 
-## Player
+### Player
 
-* First Person Controller
-* Camera
-* Movement
-* Sprint
-* Crouch
-* Interaction
+- First Person Controller
+- Camera
+- Movement
+- Sprint
+- Crouch
+- Interaction
 
----
+### Gameplay
 
-## Gameplay
+- Inventory
+- Evidence System
+- Object Inspection
+- Photo Inspection
+- Document Reading
+- Audio Log Player
+- Objective System
 
-* Inventory
-* Evidence System
-* Object Inspection
-* Photo Inspection
-* Document Reading
-* Audio Log Player
-* Objective System
+### Save System
 
----
+- Save Game
+- Load Game
+- Auto Save
+- Manual Save
 
-## Save System
+### UI
 
-* Save Game
-* Load Game
-* Auto Save
-* Manual Save
+- Main Menu
+- Pause Menu
+- Settings
+- Inventory
+- Evidence Board
+- Document Viewer
+- Photo Viewer
 
----
+### Audio
 
-## UI
-
-* Main Menu
-* Pause Menu
-* Settings
-* Inventory
-* Evidence Board
-* Document Viewer
-* Photo Viewer
-
----
-
-## Audio
-
-* Footsteps
-
-* Door Sounds
-
-* Interaction Sounds
-
-* Basic Ambient Audio
+- Footsteps
+- Door sounds
+- Interaction sounds
+- Basic ambient audio
 
 ---
 
-# TEST SCENE
+## Test Scene
 
 Create one testing level containing:
 
-Small House
-
-One Locked Door
-
-One Puzzle
-
-Several Documents
-
-One Photo
-
-One Audio Log
-
-Basic Inventory
-
-Simple Objective
+- Small house
+- One locked door
+- One puzzle
+- Several documents
+- One photo
+- One audio log
+- Basic inventory
+- Simple objective
 
 Everything required to test the gameplay loop.
 
 ---
 
-# GAMEPLAY LOOP
+## Gameplay Loop
 
-Explore
-
-↓
-
-Inspect
-
-↓
-
-Collect Evidence
-
-↓
-
-Review Evidence
-
-↓
-
-Solve Puzzle
-
-↓
-
-Unlock Door
-
-↓
-
-Complete Objective
+Explore → Inspect → Collect Evidence → Review Evidence → Solve Puzzle → Unlock Door → Complete Objective
 
 ---
 
-# PLACEHOLDER POLICY
+## Placeholder Policy
 
 Allowed:
 
-Primitive Models
+- Primitive models
+- Simple materials
+- Placeholder audio
+- Placeholder UI
+- Temporary text
 
-Simple Materials
+Not allowed:
 
-Placeholder Audio
-
-Placeholder UI
-
-Temporary Text
-
-Not Allowed:
-
-Temporary Code Architecture
-
-Broken Systems
-
-Unplanned Features
+- Temporary code architecture
+- Broken systems
+- Unplanned features
 
 ---
 
-# PERFORMANCE TARGETS
+## Performance Targets
 
-Stable 60 FPS.
-
-Fast loading.
-
-No major memory leaks.
-
-Stable save/load.
+- Stable 60 FPS
+- Fast loading
+- No major memory leaks
+- Stable save/load
 
 ---
 
-# QA REQUIREMENTS
+## QA Requirements
 
 Verify:
 
-Movement.
-
-Interaction.
-
-Inventory.
-
-Saving.
-
-Loading.
-
-UI.
-
-Evidence.
-
-Performance.
+- Movement
+- Interaction
+- Inventory
+- Saving
+- Loading
+- UI
+- Evidence
+- Performance
 
 ---
 
-# DELIVERABLES
+## Deliverables
 
-Playable prototype.
-
-Technical documentation.
-
-Architecture validation.
-
-Gameplay validation.
-
-Known issues report.
-
-QA report.
+- Playable prototype
+- Technical documentation
+- Architecture validation
+- Gameplay validation
+- Known issues report
+- QA report
 
 ---
 
-# EXIT CRITERIA
+## Exit Criteria
 
 The project may leave Prototype only if:
 
-All core systems work together.
-
-The gameplay loop is functional.
-
-Architecture is validated.
-
-Performance targets are met.
-
-QA approves the prototype.
-
-Producer approves the transition to Production.
+- All core systems work together.
+- The gameplay loop is functional.
+- Architecture is validated.
+- Performance targets are met.
+- QA approves the prototype.
+- Producer approves the transition to Production.
 
 ---
 
-# FORBIDDEN
+## Forbidden
 
-Creating production content.
-
-Adding unnecessary features.
-
-Expanding project scope.
-
-Polishing placeholder assets.
-
-Optimizing prematurely.
+- Creating production content.
+- Adding unnecessary features.
+- Expanding project scope.
+- Polishing placeholder assets.
+- Optimizing prematurely.
 
 ---
 
-# SUCCESS CONDITION
+## Success Condition
 
-The prototype proves that the technical architecture, gameplay loop and development workflow are solid, allowing the team to begin full production with confidence and minimal technical risk.
+The prototype proves that the technical architecture, gameplay loop, and development workflow are solid, allowing the team to begin full production with confidence and minimal technical risk.

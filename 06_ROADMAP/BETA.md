@@ -1,195 +1,141 @@
-# ROOTS_DIRECTOR/06_ROADMAP/BETA.md
-
 # ROOTS — BETA ROADMAP
 
 Version: 1.0
 
 ---
 
-# PURPOSE
+## Purpose
 
-The Beta phase begins after Alpha is approved.
-
-The objective is to polish, optimize and stabilize the game for release.
-
-No major features are added during this phase.
+The Beta phase begins after Alpha is approved. Its objective is to polish, optimize, and stabilize the game for release. No major features are added during this phase.
 
 ---
 
-# PRIMARY GOALS
+## Primary Goals
 
-Fix bugs.
-
-Improve performance.
-
-Polish gameplay.
-
-Polish visuals.
-
-Balance audio.
-
-Improve UI/UX.
-
-Prepare for release.
+- Fix bugs.
+- Improve performance.
+- Polish gameplay.
+- Polish visuals.
+- Balance audio.
+- Improve UI/UX.
+- Prepare for release.
 
 ---
 
-# BETA CHECKLIST
+## Beta Checklist
 
-## Gameplay
+### Gameplay
 
-* No broken progression.
-* No blocked objectives.
-* Puzzle flow verified.
-* Player experience refined.
-* Interaction consistency verified.
+- No broken progression.
+- No blocked objectives.
+- Puzzle flow verified.
+- Player experience refined.
+- Interaction consistency verified.
 
----
+### Story
 
-## Story
+- Final proofreading.
+- Dialogue improvements.
+- Document verification.
+- Audio log verification.
+- No story contradictions.
 
-* Final proofreading.
-* Dialogue improvements.
-* Document verification.
-* Audio log verification.
-* No story contradictions.
+### Levels
 
----
+- Final prop placement.
+- Navigation improvements.
+- Lighting polish.
+- Collision verification.
+- Visual consistency.
 
-## Levels
+### Art
 
-* Final prop placement.
-* Navigation improvements.
-* Lighting polish.
-* Collision verification.
-* Visual consistency.
+- No placeholder assets.
+- Materials finalized.
+- Texture consistency verified.
+- LOD verification.
+- Final visual polish.
 
----
+### Audio
 
-## Art
+- Volume balancing.
+- Ambient improvements.
+- Footstep verification.
+- Audio bug fixes.
+- Final mixing.
 
-* No placeholder assets.
-* Materials finalized.
-* Texture consistency verified.
-* LOD verification.
-* Final visual polish.
+### UI
 
----
+- Responsive layouts.
+- Accessibility verified.
+- Final icon review.
+- Navigation improvements.
+- Localization ready.
 
-## Audio
+### Performance
 
-* Volume balancing.
-* Ambient improvements.
-* Footstep verification.
-* Audio bug fixes.
-* Final mixing.
-
----
-
-## UI
-
-* Responsive layouts.
-* Accessibility verified.
-* Final icon review.
-* Navigation improvements.
-* Localization ready.
+- Stable 60 FPS.
+- Memory optimized.
+- Loading times optimized.
+- Draw calls reduced.
+- Final profiling completed.
 
 ---
 
-## Performance
+## QA Requirements
 
-* Stable 60 FPS.
-* Memory optimized.
-* Loading times optimized.
-* Draw calls reduced.
-* Final profiling completed.
-
----
-
-# QA REQUIREMENTS
-
-Complete regression testing.
-
-Compatibility testing.
-
-Performance testing.
-
-Save/Load testing.
-
-Stress testing.
-
-Long play session testing.
+- Complete regression testing.
+- Compatibility testing.
+- Performance testing.
+- Save/Load testing.
+- Stress testing.
+- Long play session testing.
 
 ---
 
-# BUG PRIORITIES
+## Bug Priorities
 
-Critical
-
-Must be fixed.
-
-High
-
-Must be fixed before release.
-
-Medium
-
-Fix if possible.
-
-Low
-
-Can be postponed if approved.
+- Critical: Must be fixed.
+- High: Must be fixed before release.
+- Medium: Fix if possible.
+- Low: Can be postponed if approved.
 
 ---
 
-# EXIT CRITERIA
+## Exit Criteria
 
 The project may leave Beta only if:
 
-No Critical bugs remain.
-
-No High priority bugs remain.
-
-Performance targets achieved.
-
-QA approves release.
-
-Producer approves release.
+- No critical bugs remain.
+- No high-priority bugs remain.
+- Performance targets are achieved.
+- QA approves release.
+- Producer approves release.
 
 ---
 
-# DELIVERABLES
+## Deliverables
 
-Release Candidate build.
-
-QA Report.
-
-Performance Report.
-
-Bug Report.
-
-Final Documentation.
-
-Release Checklist.
+- Release Candidate build.
+- QA report.
+- Performance report.
+- Bug report.
+- Final documentation.
+- Release checklist.
 
 ---
 
-# FORBIDDEN
+## Forbidden
 
-Adding new gameplay systems.
-
-Changing story.
-
-Major visual redesigns.
-
-New locations.
-
-New mechanics.
-
-Scope expansion.
+- Adding new gameplay systems.
+- Changing story.
+- Major visual redesigns.
+- New locations.
+- New mechanics.
+- Scope expansion.
 
 ---
 
-# SUCCESS CONDITION
+## Success Condition
 
-ROOTS is stable, polished, optimized and release-ready. All remaining issues are minor, documented and approved for shipment.
+ROOTS is stable, polished, optimized, and release-ready. All remaining issues are minor, documented, and approved for shipment.
