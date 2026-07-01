@@ -1,22 +1,23 @@
 # ROOTS
 
+Version: 1.0
+Status: Draft
+Author: ROOTS Project Documentation
+Last Updated: 2026-07-01
+
 ## Overview
 
-ROOTS is a first-person narrative mystery game focused on exploration, investigation, and emotional storytelling.
+ROOTS is a first-person narrative mystery game centered on exploration, investigation, and emotional storytelling. The project is being developed as a story-first experience using free tools and AI-assisted production workflows.
 
-The project is being developed primarily with AI assistance and free development tools.
-
-This repository contains the complete production pipeline, documentation, AI workflows, technical specifications, and game implementation.
+This folder contains the Master Bible for the project, including its creative direction, production rules, technical guidance, and documentation standards.
 
 ---
 
 ## Development Status
 
-Current Phase:
-Pre-Production
+Current Phase: Pre-Production
 
-Current Goal:
-Complete the MASTER BIBLE before production begins.
+Current Goal: Complete the Master Bible before full production begins.
 
 ---
 
@@ -33,13 +34,13 @@ Complete the MASTER BIBLE before production begins.
 
 ---
 
-## Main Principles
+## Core Principles
 
-* Documentation First
-* AI Driven Workflow
-* Modular Development
-* Consistent Quality
-* Story Before Features
+* Documentation first
+* AI-assisted workflow
+* Modular development
+* Consistent quality
+* Story before features
 
 ---
 
@@ -79,6 +80,4 @@ Release
 
 ## Important
 
-Every AI Agent must read the MASTER BIBLE before performing any task.
-
-The MASTER BIBLE is the single source of truth for the entire project.
+Every AI agent must read the Master Bible before performing any task. The Master Bible is the single source of truth for the entire project.

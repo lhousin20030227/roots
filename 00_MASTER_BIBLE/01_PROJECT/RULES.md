@@ -1,8 +1,13 @@
 # PROJECT RULES
 
+Version: 1.1
+Status: Draft
+Author: ROOTS Project Documentation
+Last Updated: 2026-07-01
+
 ## Purpose
 
-These rules are mandatory for every AI Agent, developer, and future contributor. No task may violate these rules.
+These rules are mandatory for every AI agent, developer, and future contributor. No task may violate them.
 
 ---
 
@@ -29,13 +34,13 @@ The following features must never be added unless explicitly approved by the Pro
 * Ghosts
 * Demons
 * Multiplayer
-* Battle Pass
+* Battle pass
 * RPG statistics
-* Skill Trees
+* Skill trees
 * Loot systems
 * Crafting systems
 * Survival mechanics
-* Random generated story events
+* Randomly generated story events
 * Arcade-style gameplay
 
 ---
@@ -54,7 +59,7 @@ The following features must never be added unless explicitly approved by the Pro
 # Gameplay Rules
 
 * Exploration is the primary gameplay.
-* Puzzles must be logical, not frustrating.
+* Puzzles must be logical rather than frustrating.
 * Objectives should naturally guide the player.
 * Every collected item must have a purpose.
 * Backtracking should be meaningful.
@@ -63,8 +68,8 @@ The following features must never be added unless explicitly approved by the Pro
 
 # Art Rules
 
-* Low Poly only.
-* Pixel Art textures only.
+* Low poly only.
+* Pixel-art textures only.
 * Consistent color palette.
 * Realistic proportions.
 * No exaggerated fantasy designs.
@@ -83,19 +88,19 @@ The following features must never be added unless explicitly approved by the Pro
 # Technical Rules
 
 * Optimize from the beginning.
-* Reusable systems only.
-* Modular architecture.
-* Clear file organization.
-* Consistent naming conventions.
+* Reuse systems where possible.
+* Maintain modular architecture.
+* Keep file organization clear.
+* Use consistent naming conventions.
 
 ---
 
 # AI Rules
 
-Every AI Agent must:
+Every AI agent must:
 
-* Read the MASTER_BIBLE before starting.
-* Follow PROJECT_RULES without exception.
+* Read the Master Bible before starting.
+* Follow Project Rules without exception.
 * Modify only assigned files.
 * Never invent story details that contradict existing documents.
 * Ask for clarification instead of making assumptions.

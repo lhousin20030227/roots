@@ -1,97 +1,86 @@
-# ROOTS_DIRECTOR/00_MASTER_BIBLE/MASTER_BIBLE.md
-
 # ROOTS — MASTER BIBLE
 
-Version: 1.0
+Version: 1.1
+Status: Draft
+Author: ROOTS Project Documentation
+Last Updated: 2026-07-01
 
 ---
 
-# PURPOSE
+# Purpose
 
-This document is the highest authority for the entire project.
-
-Every AI Agent must read this before executing any task.
-
-If any file conflicts with this document, this document always wins.
+This document is the highest-authority reference for the entire project. Every AI agent must read it before beginning work, and any conflicting file must follow this document.
 
 ---
 
-# PROJECT IDENTITY
+# Project Identity
 
 Project Name: ROOTS
 
-Genre:
-First Person Narrative Mystery
+Genre: First-Person Narrative Mystery
 
-Engine:
-Unity
+Engine: Unity
 
-Platform:
-PC (Primary)
+Platform: PC (primary)
 
-Business Model:
-Free Game + Ads
+Business Model: Free game with optional ads
 
-Development:
-Solo Developer + AI Agents
+Development: Solo developer with AI agents
 
-Budget:
-Near Zero
+Budget: Near zero
 
-Target FPS:
-60
+Target FPS: 60
 
-Target Hardware:
-Mid-range PCs
+Target Hardware: Mid-range PCs
 
 ---
 
-# CORE PILLARS
+# Core Pillars
 
-1. Story First
+1. Story first
    The story is the heart of the game.
 
-2. Exploration First
+2. Exploration first
    Progress comes from exploration.
 
 3. Realism
-   Everything must have a believable explanation.
+   Every element should have a believable explanation.
 
-4. Emotional Experience
-   The player should feel curiosity, sadness and hope.
+4. Emotional experience
+   The player should feel curiosity, sadness, and hope.
 
 5. Simplicity
-   Simple mechanics executed with high quality.
+   Simple mechanics should be executed with high quality.
 
 ---
 
-# GAME RULES
+# Game Rules
 
-No Combat
+No combat
 
-No Monsters
+No monsters
 
-No Zombies
+No zombies
 
-No Ghosts
+No ghosts
 
-No Magic
+No magic
 
-No Super Powers
+No supernatural powers
 
-No Multiplayer
+No multiplayer
 
-No Crafting
+No crafting
 
-No Survival Mechanics
+No survival mechanics
 
-No Horror Chase Sequences
+No horror chase sequences
 
-No Random Jump Scares
+No random jump scares
 
 ---
 
-# GAMEPLAY PILLARS
+# Gameplay Pillars
 
 Explore
 
@@ -99,165 +88,73 @@ Observe
 
 Interact
 
-Collect Evidence
+Collect evidence
 
-Connect Information
+Connect information
 
-Unlock New Locations
+Unlock new locations
 
-Continue Story
-
----
-
-# PLAYER ROLE
-
-The player is an ordinary person.
-
-The player has no special abilities.
-
-The player never becomes a hero.
-
-The player only searches for the truth.
+Continue the story
 
 ---
 
-# STORY RULES
+# Player Role
 
-Information is never given directly.
-
-The player must discover everything.
-
-Every important revelation requires previous clues.
-
-Nothing happens without logical reasons.
-
-Every document must have an owner.
-
-Every location must have history.
-
-Every object should tell part of the story.
+The player is an ordinary person with no special abilities. The player never becomes a hero and only seeks the truth.
 
 ---
 
-# WORLD RULES
+# Story Rules
 
-Modern realistic world.
-
-No paranormal events.
-
-No impossible technology.
-
-No unrealistic coincidences.
-
-The world exists independently from the player.
-
-NPCs have their own lives.
+Information is never given directly. The player must discover it through evidence and progression. Every important revelation requires prior clues, and nothing happens without a logical reason. Every document must have an owner, every location must have history, and every object should contribute to the story.
 
 ---
 
-# ART DIRECTION
+# World Rules
 
-Low Poly.
-
-Pixel Art textures.
-
-Simple materials.
-
-Baked Lighting.
-
-Light Fog.
-
-Minimal VFX.
-
-Readable environments.
-
-Performance before realism.
+The world is modern and realistic. There are no paranormal events, impossible technology, or unrealistic coincidences. The world exists independently from the player, and NPCs have their own lives.
 
 ---
 
-# AUDIO DIRECTION
+# Art Direction
 
-Environmental ambience is more important than music.
-
-Silence is part of the experience.
-
-Use realistic sounds.
-
-Avoid cinematic exaggeration.
+Low poly models, pixel-art textures, simple materials, baked lighting, light fog, minimal visual effects, readable environments, and performance before realism.
 
 ---
 
-# UI RULES
+# Audio Direction
 
-Minimal Interface.
-
-No unnecessary HUD.
-
-Immersive interaction.
-
-Simple menus.
-
-Fast navigation.
+Environmental ambience is more important than music. Silence is part of the experience. Sound should remain realistic and avoid cinematic exaggeration.
 
 ---
 
-# TECHNICAL RULES
+# UI Rules
 
-Unity only.
-
-Clean architecture.
-
-Modular systems.
-
-Reusable prefabs.
-
-ScriptableObjects when appropriate.
-
-Performance first.
-
-Avoid unnecessary plugins.
+The interface should remain minimal, with no unnecessary HUD, immersive interaction, simple menus, and fast navigation.
 
 ---
 
-# AI DEVELOPMENT RULES
+# Technical Rules
 
-AI never changes project scope.
-
-AI never invents story events without approval.
-
-AI never rewrites existing lore.
-
-AI never edits unrelated files.
-
-Every AI task must produce deterministic output.
-
-Every generated file must follow project standards.
+The project should remain Unity-only, with clean architecture, modular systems, reusable prefabs, ScriptableObjects where appropriate, strong performance, and minimal reliance on unnecessary plugins.
 
 ---
 
-# QUALITY STANDARD
+# AI Development Rules
 
-Every feature must satisfy:
-
-Functional.
-
-Readable.
-
-Maintainable.
-
-Optimized.
-
-Consistent.
-
-Immersive.
+AI must not change project scope, invent story events without approval, rewrite existing lore, or edit unrelated files. Every AI task should produce deterministic output, and every generated file should follow project standards.
 
 ---
 
-# SUCCESS CRITERIA
+# Quality Standard
 
-A player who finishes Part 1 should:
+Every feature should be functional, readable, maintainable, optimized, consistent, and immersive.
 
-Feel emotionally attached to the characters.
+---
+
+# Success Criteria
+
+A player who finishes Part 1 should feel emotionally attached to the characters.
 
 Understand the family history.
 

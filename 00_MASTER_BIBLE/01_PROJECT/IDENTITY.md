@@ -1,8 +1,13 @@
 # PROJECT IDENTITY
 
+Version: 1.1
+Status: Draft
+Author: ROOTS Project Documentation
+Last Updated: 2026-07-01
+
 ## Project Name
 
-ROOTS *(Temporary Name)*
+ROOTS *(temporary name)*
 
 ## Project Type
 
@@ -10,7 +15,7 @@ Single-player narrative exploration game.
 
 ## Genre
 
-First-Person Narrative Mystery.
+First-person narrative mystery.
 
 ## Engine
 
@@ -22,11 +27,11 @@ Windows PC.
 
 ## Camera
 
-First Person (FPS).
+First-person perspective.
 
 ## Art Style
 
-3D Low Poly models with Pixel Art textures.
+3D low-poly models with pixel-art textures.
 
 ## Target Audience
 
@@ -38,16 +43,16 @@ Part 1: 4–6 hours.
 
 ## Core Experience
 
-The player gradually uncovers the truth about their identity by exploring environments, collecting evidence, solving logical puzzles, and connecting information. The story is discovered naturally through gameplay rather than long cutscenes.
+The player gradually uncovers the truth about their identity by exploring environments, collecting evidence, solving logical puzzles, and connecting information. The story is revealed naturally through gameplay rather than through long cutscenes.
 
 ## Core Gameplay Pillars
 
 * Exploration
 * Investigation
-* Evidence Collection
-* Puzzle Solving
-* Environmental Storytelling
-* Emotional Narrative
+* Evidence collection
+* Puzzle solving
+* Environmental storytelling
+* Emotional narrative
 
 ## Player Role
 
@@ -55,11 +60,11 @@ The player controls the main character, whose name is chosen at the beginning of
 
 ## Project Scope
 
-The first release focuses on a complete, polished single-player experience with a limited number of locations, a strong story, and high replay quality instead of a massive open world.
+The first release focuses on a complete, polished single-player experience with a limited number of locations, a strong story, and high replay value rather than a massive open world.
 
 ## Target Quality
 
-Every system, asset, dialogue, document, and mechanic should support the narrative. Features are added only if they improve the player's experience and fit the project's vision.
+Every system, asset, dialogue, document, and mechanic should support the narrative. Features are added only when they improve the player's experience and fit the project's vision.
 
 ## Production Philosophy
 
